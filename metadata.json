@@ -1,0 +1,6 @@
+{
+  "name": "Juni Kost Meal Prep",
+  "description": "Asisten meal prep bulanan dan mingguan cerdas, sehat, dan efisien untuk mendukung gaya hidup aktif Juni, dilengkapi kalkulator estimasi biaya bumbu dan bahan utama serta rekomendasi resep pintar berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
